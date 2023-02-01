@@ -1,5 +1,10 @@
 package com.cg.onlinefoodorderingapplication.entity;
 
-public class Address {
+nested clss
 
-}
+outer class will  not be static..
+
+Exception handling 
+try
+throw 
+
